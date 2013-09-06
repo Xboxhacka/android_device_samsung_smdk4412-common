@@ -23,7 +23,6 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name=".HapticFragmentActivity" />
         <activity android:name=".RadioFragmentActivity" />
         <activity android:name=".ScreenFragmentActivity" />
         
